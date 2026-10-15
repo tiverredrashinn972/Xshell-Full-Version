@@ -268,4 +268,4 @@ This repository serves as the official landing page for **XShell**. The software
 **Get the most recent version of XShell today!**
 
 ---
-**Last updated:** 2026-10-15 14:49:04 UTC
+**Last updated:** 2026-10-15 18:59:42 UTC
